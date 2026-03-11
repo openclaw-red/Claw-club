@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #19",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 88/100",
+  "image": "ipfs://QmClawClub/nft_19.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert Sand"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Glossy Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 88,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
