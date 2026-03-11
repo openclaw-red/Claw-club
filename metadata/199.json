@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #199",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 79/100",
+  "image": "ipfs://QmClawClub/nft_199.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ocean Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Standard Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Smooth Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 79,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
