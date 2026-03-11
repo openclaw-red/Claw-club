@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #437",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 83/100",
+  "image": "ipfs://QmClawClub/nft_437.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shadow Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Star Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Metallic Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 83,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
