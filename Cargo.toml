@@ -1,0 +1,6 @@
+[workspace]
+members = ["programs/claw_club"]
+resolver = "2"
+
+[cargo.registry.crates-io]
+allow-unpathed-tree = true
