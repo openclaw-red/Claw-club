@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #197",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 91/100",
+  "image": "ipfs://QmClawClub/nft_197.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert Sand"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shadow Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Metallic Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 91,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
