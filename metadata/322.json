@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #322",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 85/100",
+  "image": "ipfs://QmClawClub/nft_322.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arctic White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Crystal Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 85,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
