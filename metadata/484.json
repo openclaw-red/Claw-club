@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #484",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 90/100",
+  "image": "ipfs://QmClawClub/nft_484.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arctic White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Metallic Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 90,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
