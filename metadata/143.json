@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #143",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 88/100",
+  "image": "ipfs://QmClawClub/nft_143.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Desert Sand"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Metallic Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 88,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
