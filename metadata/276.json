@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #276",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 92/100",
+  "image": "ipfs://QmClawClub/nft_276.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Spiky Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 92,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
