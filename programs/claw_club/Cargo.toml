@@ -1,0 +1,14 @@
+[package]
+name = "claw_club"
+version = "0.1.0"
+description = "Claw Club NFT - 500 unique NFTs on Solana"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+anchor-lang = "0.30.0"
+anchor-spl = "0.30.0"
+solana-program = "1.18"
+spl-token = "4.0"
