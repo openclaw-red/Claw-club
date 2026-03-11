@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #66",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 80/100",
+  "image": "ipfs://QmClawClub/nft_66.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Standard Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Rusted Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 80,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
