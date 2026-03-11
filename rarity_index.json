@@ -1,0 +1,6506 @@
+{
+  "timestamp": "2026-03-11T00:23:17.121Z",
+  "totalNFTs": 500,
+  "rarities": [
+    {
+      "id": 198,
+      "name": "Claw Club #198",
+      "rarityScore": 95,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 332,
+      "name": "Claw Club #332",
+      "rarityScore": 95,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 469,
+      "name": "Claw Club #469",
+      "rarityScore": 95,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 494,
+      "name": "Claw Club #494",
+      "rarityScore": 95,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 115,
+      "name": "Claw Club #115",
+      "rarityScore": 94,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 196,
+      "name": "Claw Club #196",
+      "rarityScore": 94,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 226,
+      "name": "Claw Club #226",
+      "rarityScore": 94,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 251,
+      "name": "Claw Club #251",
+      "rarityScore": 94,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 38,
+      "name": "Claw Club #38",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 63,
+      "name": "Claw Club #63",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 94,
+      "name": "Claw Club #94",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 112,
+      "name": "Claw Club #112",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 308,
+      "name": "Claw Club #308",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 354,
+      "name": "Claw Club #354",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 449,
+      "name": "Claw Club #449",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 495,
+      "name": "Claw Club #495",
+      "rarityScore": 93,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 24,
+      "name": "Claw Club #24",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 41,
+      "name": "Claw Club #41",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 62,
+      "name": "Claw Club #62",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 109,
+      "name": "Claw Club #109",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 204,
+      "name": "Claw Club #204",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 213,
+      "name": "Claw Club #213",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 247,
+      "name": "Claw Club #247",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 276,
+      "name": "Claw Club #276",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 346,
+      "name": "Claw Club #346",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 348,
+      "name": "Claw Club #348",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 349,
+      "name": "Claw Club #349",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 398,
+      "name": "Claw Club #398",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 417,
+      "name": "Claw Club #417",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 460,
+      "name": "Claw Club #460",
+      "rarityScore": 92,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Claw Club #3",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 14,
+      "name": "Claw Club #14",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 21,
+      "name": "Claw Club #21",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 40,
+      "name": "Claw Club #40",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 75,
+      "name": "Claw Club #75",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 185,
+      "name": "Claw Club #185",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 197,
+      "name": "Claw Club #197",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 216,
+      "name": "Claw Club #216",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 246,
+      "name": "Claw Club #246",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 371,
+      "name": "Claw Club #371",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 376,
+      "name": "Claw Club #376",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 379,
+      "name": "Claw Club #379",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 451,
+      "name": "Claw Club #451",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 452,
+      "name": "Claw Club #452",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 462,
+      "name": "Claw Club #462",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 473,
+      "name": "Claw Club #473",
+      "rarityScore": 91,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 30,
+      "name": "Claw Club #30",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 42,
+      "name": "Claw Club #42",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 43,
+      "name": "Claw Club #43",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 83,
+      "name": "Claw Club #83",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 93,
+      "name": "Claw Club #93",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 120,
+      "name": "Claw Club #120",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 123,
+      "name": "Claw Club #123",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 129,
+      "name": "Claw Club #129",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 134,
+      "name": "Claw Club #134",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 159,
+      "name": "Claw Club #159",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 166,
+      "name": "Claw Club #166",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 178,
+      "name": "Claw Club #178",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 179,
+      "name": "Claw Club #179",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 192,
+      "name": "Claw Club #192",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 205,
+      "name": "Claw Club #205",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 211,
+      "name": "Claw Club #211",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 223,
+      "name": "Claw Club #223",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 232,
+      "name": "Claw Club #232",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 234,
+      "name": "Claw Club #234",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 243,
+      "name": "Claw Club #243",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 248,
+      "name": "Claw Club #248",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 249,
+      "name": "Claw Club #249",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 342,
+      "name": "Claw Club #342",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 365,
+      "name": "Claw Club #365",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 380,
+      "name": "Claw Club #380",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 392,
+      "name": "Claw Club #392",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 395,
+      "name": "Claw Club #395",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 402,
+      "name": "Claw Club #402",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 407,
+      "name": "Claw Club #407",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 434,
+      "name": "Claw Club #434",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 484,
+      "name": "Claw Club #484",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 487,
+      "name": "Claw Club #487",
+      "rarityScore": 90,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Claw Club #6",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Claw Club #10",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 22,
+      "name": "Claw Club #22",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 27,
+      "name": "Claw Club #27",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 31,
+      "name": "Claw Club #31",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 32,
+      "name": "Claw Club #32",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 45,
+      "name": "Claw Club #45",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 57,
+      "name": "Claw Club #57",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 59,
+      "name": "Claw Club #59",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 69,
+      "name": "Claw Club #69",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 81,
+      "name": "Claw Club #81",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 100,
+      "name": "Claw Club #100",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 113,
+      "name": "Claw Club #113",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 116,
+      "name": "Claw Club #116",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 121,
+      "name": "Claw Club #121",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 133,
+      "name": "Claw Club #133",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 162,
+      "name": "Claw Club #162",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 169,
+      "name": "Claw Club #169",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 170,
+      "name": "Claw Club #170",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 183,
+      "name": "Claw Club #183",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 184,
+      "name": "Claw Club #184",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 218,
+      "name": "Claw Club #218",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 219,
+      "name": "Claw Club #219",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 224,
+      "name": "Claw Club #224",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 244,
+      "name": "Claw Club #244",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 261,
+      "name": "Claw Club #261",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 286,
+      "name": "Claw Club #286",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 295,
+      "name": "Claw Club #295",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 296,
+      "name": "Claw Club #296",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 307,
+      "name": "Claw Club #307",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 323,
+      "name": "Claw Club #323",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 339,
+      "name": "Claw Club #339",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 360,
+      "name": "Claw Club #360",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 382,
+      "name": "Claw Club #382",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 393,
+      "name": "Claw Club #393",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 418,
+      "name": "Claw Club #418",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 446,
+      "name": "Claw Club #446",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 447,
+      "name": "Claw Club #447",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 448,
+      "name": "Claw Club #448",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 479,
+      "name": "Claw Club #479",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 488,
+      "name": "Claw Club #488",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 496,
+      "name": "Claw Club #496",
+      "rarityScore": 89,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 1,
+      "name": "Claw Club #1",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 19,
+      "name": "Claw Club #19",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 39,
+      "name": "Claw Club #39",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 44,
+      "name": "Claw Club #44",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 50,
+      "name": "Claw Club #50",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 53,
+      "name": "Claw Club #53",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 67,
+      "name": "Claw Club #67",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 87,
+      "name": "Claw Club #87",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 88,
+      "name": "Claw Club #88",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Claw Club #104",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 105,
+      "name": "Claw Club #105",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 107,
+      "name": "Claw Club #107",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 124,
+      "name": "Claw Club #124",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 131,
+      "name": "Claw Club #131",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 143,
+      "name": "Claw Club #143",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 144,
+      "name": "Claw Club #144",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 157,
+      "name": "Claw Club #157",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 168,
+      "name": "Claw Club #168",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 173,
+      "name": "Claw Club #173",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 175,
+      "name": "Claw Club #175",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 194,
+      "name": "Claw Club #194",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 200,
+      "name": "Claw Club #200",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 220,
+      "name": "Claw Club #220",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 222,
+      "name": "Claw Club #222",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 231,
+      "name": "Claw Club #231",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 252,
+      "name": "Claw Club #252",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 262,
+      "name": "Claw Club #262",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 263,
+      "name": "Claw Club #263",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 268,
+      "name": "Claw Club #268",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 269,
+      "name": "Claw Club #269",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 274,
+      "name": "Claw Club #274",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 278,
+      "name": "Claw Club #278",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 285,
+      "name": "Claw Club #285",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 287,
+      "name": "Claw Club #287",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 289,
+      "name": "Claw Club #289",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 299,
+      "name": "Claw Club #299",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 304,
+      "name": "Claw Club #304",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 306,
+      "name": "Claw Club #306",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 314,
+      "name": "Claw Club #314",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 324,
+      "name": "Claw Club #324",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 325,
+      "name": "Claw Club #325",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 335,
+      "name": "Claw Club #335",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 338,
+      "name": "Claw Club #338",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 366,
+      "name": "Claw Club #366",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 394,
+      "name": "Claw Club #394",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 405,
+      "name": "Claw Club #405",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 411,
+      "name": "Claw Club #411",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 429,
+      "name": "Claw Club #429",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 432,
+      "name": "Claw Club #432",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 436,
+      "name": "Claw Club #436",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 438,
+      "name": "Claw Club #438",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 444,
+      "name": "Claw Club #444",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 450,
+      "name": "Claw Club #450",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 456,
+      "name": "Claw Club #456",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 464,
+      "name": "Claw Club #464",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 466,
+      "name": "Claw Club #466",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 468,
+      "name": "Claw Club #468",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 498,
+      "name": "Claw Club #498",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 499,
+      "name": "Claw Club #499",
+      "rarityScore": 88,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Claw Club #2",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Claw Club #4",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 18,
+      "name": "Claw Club #18",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 23,
+      "name": "Claw Club #23",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 47,
+      "name": "Claw Club #47",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 71,
+      "name": "Claw Club #71",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 82,
+      "name": "Claw Club #82",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 85,
+      "name": "Claw Club #85",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 111,
+      "name": "Claw Club #111",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 114,
+      "name": "Claw Club #114",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 127,
+      "name": "Claw Club #127",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 132,
+      "name": "Claw Club #132",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 140,
+      "name": "Claw Club #140",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 163,
+      "name": "Claw Club #163",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 165,
+      "name": "Claw Club #165",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 180,
+      "name": "Claw Club #180",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 189,
+      "name": "Claw Club #189",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 201,
+      "name": "Claw Club #201",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 202,
+      "name": "Claw Club #202",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 203,
+      "name": "Claw Club #203",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 206,
+      "name": "Claw Club #206",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 217,
+      "name": "Claw Club #217",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 241,
+      "name": "Claw Club #241",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 270,
+      "name": "Claw Club #270",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 273,
+      "name": "Claw Club #273",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 280,
+      "name": "Claw Club #280",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 284,
+      "name": "Claw Club #284",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 290,
+      "name": "Claw Club #290",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 292,
+      "name": "Claw Club #292",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 293,
+      "name": "Claw Club #293",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 294,
+      "name": "Claw Club #294",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 301,
+      "name": "Claw Club #301",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 313,
+      "name": "Claw Club #313",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 320,
+      "name": "Claw Club #320",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 321,
+      "name": "Claw Club #321",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 329,
+      "name": "Claw Club #329",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 336,
+      "name": "Claw Club #336",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 341,
+      "name": "Claw Club #341",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 355,
+      "name": "Claw Club #355",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 356,
+      "name": "Claw Club #356",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 377,
+      "name": "Claw Club #377",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 396,
+      "name": "Claw Club #396",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 410,
+      "name": "Claw Club #410",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 416,
+      "name": "Claw Club #416",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 425,
+      "name": "Claw Club #425",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 433,
+      "name": "Claw Club #433",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 442,
+      "name": "Claw Club #442",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 443,
+      "name": "Claw Club #443",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 453,
+      "name": "Claw Club #453",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 463,
+      "name": "Claw Club #463",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 465,
+      "name": "Claw Club #465",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 474,
+      "name": "Claw Club #474",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 475,
+      "name": "Claw Club #475",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 481,
+      "name": "Claw Club #481",
+      "rarityScore": 87,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Claw Club #7",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Claw Club #11",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 17,
+      "name": "Claw Club #17",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 34,
+      "name": "Claw Club #34",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 51,
+      "name": "Claw Club #51",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 52,
+      "name": "Claw Club #52",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 60,
+      "name": "Claw Club #60",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 61,
+      "name": "Claw Club #61",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 65,
+      "name": "Claw Club #65",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 68,
+      "name": "Claw Club #68",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 73,
+      "name": "Claw Club #73",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 92,
+      "name": "Claw Club #92",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 98,
+      "name": "Claw Club #98",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 103,
+      "name": "Claw Club #103",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 108,
+      "name": "Claw Club #108",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 119,
+      "name": "Claw Club #119",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 141,
+      "name": "Claw Club #141",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 145,
+      "name": "Claw Club #145",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 161,
+      "name": "Claw Club #161",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 181,
+      "name": "Claw Club #181",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 187,
+      "name": "Claw Club #187",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 188,
+      "name": "Claw Club #188",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 193,
+      "name": "Claw Club #193",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 208,
+      "name": "Claw Club #208",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 212,
+      "name": "Claw Club #212",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 214,
+      "name": "Claw Club #214",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 258,
+      "name": "Claw Club #258",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 267,
+      "name": "Claw Club #267",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 305,
+      "name": "Claw Club #305",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 353,
+      "name": "Claw Club #353",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 358,
+      "name": "Claw Club #358",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 363,
+      "name": "Claw Club #363",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 373,
+      "name": "Claw Club #373",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 386,
+      "name": "Claw Club #386",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 387,
+      "name": "Claw Club #387",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 390,
+      "name": "Claw Club #390",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 415,
+      "name": "Claw Club #415",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 421,
+      "name": "Claw Club #421",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 424,
+      "name": "Claw Club #424",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 428,
+      "name": "Claw Club #428",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 441,
+      "name": "Claw Club #441",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 459,
+      "name": "Claw Club #459",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 467,
+      "name": "Claw Club #467",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 470,
+      "name": "Claw Club #470",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 471,
+      "name": "Claw Club #471",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 472,
+      "name": "Claw Club #472",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 492,
+      "name": "Claw Club #492",
+      "rarityScore": 86,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 35,
+      "name": "Claw Club #35",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 36,
+      "name": "Claw Club #36",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 48,
+      "name": "Claw Club #48",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 70,
+      "name": "Claw Club #70",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 76,
+      "name": "Claw Club #76",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 91,
+      "name": "Claw Club #91",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 97,
+      "name": "Claw Club #97",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 118,
+      "name": "Claw Club #118",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 125,
+      "name": "Claw Club #125",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 130,
+      "name": "Claw Club #130",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 146,
+      "name": "Claw Club #146",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 147,
+      "name": "Claw Club #147",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 149,
+      "name": "Claw Club #149",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 182,
+      "name": "Claw Club #182",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 221,
+      "name": "Claw Club #221",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 228,
+      "name": "Claw Club #228",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 229,
+      "name": "Claw Club #229",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 233,
+      "name": "Claw Club #233",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 235,
+      "name": "Claw Club #235",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 242,
+      "name": "Claw Club #242",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 253,
+      "name": "Claw Club #253",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 264,
+      "name": "Claw Club #264",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 275,
+      "name": "Claw Club #275",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 282,
+      "name": "Claw Club #282",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 309,
+      "name": "Claw Club #309",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 318,
+      "name": "Claw Club #318",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 319,
+      "name": "Claw Club #319",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 322,
+      "name": "Claw Club #322",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 326,
+      "name": "Claw Club #326",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 337,
+      "name": "Claw Club #337",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 345,
+      "name": "Claw Club #345",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 350,
+      "name": "Claw Club #350",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 351,
+      "name": "Claw Club #351",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 361,
+      "name": "Claw Club #361",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 367,
+      "name": "Claw Club #367",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 383,
+      "name": "Claw Club #383",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 385,
+      "name": "Claw Club #385",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 388,
+      "name": "Claw Club #388",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 400,
+      "name": "Claw Club #400",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 401,
+      "name": "Claw Club #401",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 406,
+      "name": "Claw Club #406",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 408,
+      "name": "Claw Club #408",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 427,
+      "name": "Claw Club #427",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 435,
+      "name": "Claw Club #435",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 454,
+      "name": "Claw Club #454",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 455,
+      "name": "Claw Club #455",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 478,
+      "name": "Claw Club #478",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 491,
+      "name": "Claw Club #491",
+      "rarityScore": 85,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 13,
+      "name": "Claw Club #13",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 16,
+      "name": "Claw Club #16",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 20,
+      "name": "Claw Club #20",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 33,
+      "name": "Claw Club #33",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 37,
+      "name": "Claw Club #37",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 56,
+      "name": "Claw Club #56",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 64,
+      "name": "Claw Club #64",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 101,
+      "name": "Claw Club #101",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 136,
+      "name": "Claw Club #136",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 153,
+      "name": "Claw Club #153",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 154,
+      "name": "Claw Club #154",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 155,
+      "name": "Claw Club #155",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 167,
+      "name": "Claw Club #167",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 172,
+      "name": "Claw Club #172",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 177,
+      "name": "Claw Club #177",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 191,
+      "name": "Claw Club #191",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 210,
+      "name": "Claw Club #210",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 250,
+      "name": "Claw Club #250",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 256,
+      "name": "Claw Club #256",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 260,
+      "name": "Claw Club #260",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 271,
+      "name": "Claw Club #271",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 311,
+      "name": "Claw Club #311",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 368,
+      "name": "Claw Club #368",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 369,
+      "name": "Claw Club #369",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 370,
+      "name": "Claw Club #370",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 381,
+      "name": "Claw Club #381",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 412,
+      "name": "Claw Club #412",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 458,
+      "name": "Claw Club #458",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 483,
+      "name": "Claw Club #483",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 490,
+      "name": "Claw Club #490",
+      "rarityScore": 84,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 0,
+      "name": "Claw Club #0",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 25,
+      "name": "Claw Club #25",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 26,
+      "name": "Claw Club #26",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 49,
+      "name": "Claw Club #49",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 54,
+      "name": "Claw Club #54",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 58,
+      "name": "Claw Club #58",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 102,
+      "name": "Claw Club #102",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 106,
+      "name": "Claw Club #106",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 128,
+      "name": "Claw Club #128",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 176,
+      "name": "Claw Club #176",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 215,
+      "name": "Claw Club #215",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 225,
+      "name": "Claw Club #225",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 236,
+      "name": "Claw Club #236",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 237,
+      "name": "Claw Club #237",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 239,
+      "name": "Claw Club #239",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 254,
+      "name": "Claw Club #254",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 265,
+      "name": "Claw Club #265",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 277,
+      "name": "Claw Club #277",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 340,
+      "name": "Claw Club #340",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 357,
+      "name": "Claw Club #357",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 364,
+      "name": "Claw Club #364",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 426,
+      "name": "Claw Club #426",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 430,
+      "name": "Claw Club #430",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 437,
+      "name": "Claw Club #437",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 457,
+      "name": "Claw Club #457",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 461,
+      "name": "Claw Club #461",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 486,
+      "name": "Claw Club #486",
+      "rarityScore": 83,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 15,
+      "name": "Claw Club #15",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 84,
+      "name": "Claw Club #84",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 89,
+      "name": "Claw Club #89",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 96,
+      "name": "Claw Club #96",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 117,
+      "name": "Claw Club #117",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 150,
+      "name": "Claw Club #150",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 152,
+      "name": "Claw Club #152",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 257,
+      "name": "Claw Club #257",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 259,
+      "name": "Claw Club #259",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 330,
+      "name": "Claw Club #330",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 333,
+      "name": "Claw Club #333",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 343,
+      "name": "Claw Club #343",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 362,
+      "name": "Claw Club #362",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 420,
+      "name": "Claw Club #420",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 493,
+      "name": "Claw Club #493",
+      "rarityScore": 82,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Smooth Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Claw Club #8",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 74,
+      "name": "Claw Club #74",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 86,
+      "name": "Claw Club #86",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 110,
+      "name": "Claw Club #110",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 151,
+      "name": "Claw Club #151",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 160,
+      "name": "Claw Club #160",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 190,
+      "name": "Claw Club #190",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 288,
+      "name": "Claw Club #288",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 347,
+      "name": "Claw Club #347",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 399,
+      "name": "Claw Club #399",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 419,
+      "name": "Claw Club #419",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 440,
+      "name": "Claw Club #440",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 445,
+      "name": "Claw Club #445",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 485,
+      "name": "Claw Club #485",
+      "rarityScore": 81,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 66,
+      "name": "Claw Club #66",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 72,
+      "name": "Claw Club #72",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 79,
+      "name": "Claw Club #79",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 95,
+      "name": "Claw Club #95",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 126,
+      "name": "Claw Club #126",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 139,
+      "name": "Claw Club #139",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 158,
+      "name": "Claw Club #158",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 209,
+      "name": "Claw Club #209",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Blue Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 230,
+      "name": "Claw Club #230",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 245,
+      "name": "Claw Club #245",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 255,
+      "name": "Claw Club #255",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 298,
+      "name": "Claw Club #298",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 302,
+      "name": "Claw Club #302",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 310,
+      "name": "Claw Club #310",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 317,
+      "name": "Claw Club #317",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 352,
+      "name": "Claw Club #352",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 389,
+      "name": "Claw Club #389",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 397,
+      "name": "Claw Club #397",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Holographic Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 409,
+      "name": "Claw Club #409",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 422,
+      "name": "Claw Club #422",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 476,
+      "name": "Claw Club #476",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 477,
+      "name": "Claw Club #477",
+      "rarityScore": 80,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Claw Club #12",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 78,
+      "name": "Claw Club #78",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 142,
+      "name": "Claw Club #142",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 156,
+      "name": "Claw Club #156",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 195,
+      "name": "Claw Club #195",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 199,
+      "name": "Claw Club #199",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 240,
+      "name": "Claw Club #240",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 266,
+      "name": "Claw Club #266",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 283,
+      "name": "Claw Club #283",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 312,
+      "name": "Claw Club #312",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 315,
+      "name": "Claw Club #315",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Helicopter Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 328,
+      "name": "Claw Club #328",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 378,
+      "name": "Claw Club #378",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 403,
+      "name": "Claw Club #403",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Holographic Aura"
+      }
+    },
+    {
+      "id": 414,
+      "name": "Claw Club #414",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 497,
+      "name": "Claw Club #497",
+      "rarityScore": 79,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 99,
+      "name": "Claw Club #99",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 148,
+      "name": "Claw Club #148",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 207,
+      "name": "Claw Club #207",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 227,
+      "name": "Claw Club #227",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 291,
+      "name": "Claw Club #291",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 297,
+      "name": "Claw Club #297",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 303,
+      "name": "Claw Club #303",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 334,
+      "name": "Claw Club #334",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Standard Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 344,
+      "name": "Claw Club #344",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Chain"
+      }
+    },
+    {
+      "id": 359,
+      "name": "Claw Club #359",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Gold Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 391,
+      "name": "Claw Club #391",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "Monocle"
+      }
+    },
+    {
+      "id": 489,
+      "name": "Claw Club #489",
+      "rarityScore": 78,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Claw Club #9",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 80,
+      "name": "Claw Club #80",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Standard Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 90,
+      "name": "Claw Club #90",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Sunglasses"
+      }
+    },
+    {
+      "id": 135,
+      "name": "Claw Club #135",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Top Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 137,
+      "name": "Claw Club #137",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 138,
+      "name": "Claw Club #138",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 164,
+      "name": "Claw Club #164",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Standard Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 186,
+      "name": "Claw Club #186",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Shadow Crab",
+        "eyes": "Star Eyes",
+        "hat": "Top Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 300,
+      "name": "Claw Club #300",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 331,
+      "name": "Claw Club #331",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 372,
+      "name": "Claw Club #372",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 375,
+      "name": "Claw Club #375",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 384,
+      "name": "Claw Club #384",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 413,
+      "name": "Claw Club #413",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 423,
+      "name": "Claw Club #423",
+      "rarityScore": 77,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "Cigar"
+      }
+    },
+    {
+      "id": 46,
+      "name": "Claw Club #46",
+      "rarityScore": 76,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Wizard Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 316,
+      "name": "Claw Club #316",
+      "rarityScore": 76,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 439,
+      "name": "Claw Club #439",
+      "rarityScore": 76,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 28,
+      "name": "Claw Club #28",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 77,
+      "name": "Claw Club #77",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Holographic Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 238,
+      "name": "Claw Club #238",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 272,
+      "name": "Claw Club #272",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Crown",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 279,
+      "name": "Claw Club #279",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Standard Crab",
+        "eyes": "Normal Eyes",
+        "hat": "Top Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 374,
+      "name": "Claw Club #374",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Red Crab",
+        "eyes": "Star Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 404,
+      "name": "Claw Club #404",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "Baseball Cap",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 482,
+      "name": "Claw Club #482",
+      "rarityScore": 75,
+      "traits": {
+        "background": "Forest Green",
+        "body": "Shadow Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Metallic Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 480,
+      "name": "Claw Club #480",
+      "rarityScore": 74,
+      "traits": {
+        "background": "Arctic White",
+        "body": "Red Crab",
+        "eyes": "Normal Eyes",
+        "hat": "No Hat",
+        "shell": "Rusted Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 122,
+      "name": "Claw Club #122",
+      "rarityScore": 73,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Dollar Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 174,
+      "name": "Claw Club #174",
+      "rarityScore": 73,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Holographic Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 281,
+      "name": "Claw Club #281",
+      "rarityScore": 73,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Gold Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Claw Club #5",
+      "rarityScore": 72,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Star Eyes",
+        "hat": "No Hat",
+        "shell": "Crystal Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 29,
+      "name": "Claw Club #29",
+      "rarityScore": 72,
+      "traits": {
+        "background": "Desert Sand",
+        "body": "Red Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 327,
+      "name": "Claw Club #327",
+      "rarityScore": 72,
+      "traits": {
+        "background": "Night Purple",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Glossy Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 55,
+      "name": "Claw Club #55",
+      "rarityScore": 71,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Shadow Crab",
+        "eyes": "Laser Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 171,
+      "name": "Claw Club #171",
+      "rarityScore": 70,
+      "traits": {
+        "background": "Ocean Blue",
+        "body": "Blue Crab",
+        "eyes": "Sleepy Eyes",
+        "hat": "No Hat",
+        "shell": "Smooth Shell",
+        "extra": "None"
+      }
+    },
+    {
+      "id": 431,
+      "name": "Claw Club #431",
+      "rarityScore": 70,
+      "traits": {
+        "background": "Sunset Orange",
+        "body": "Shadow Crab",
+        "eyes": "Angry Eyes",
+        "hat": "No Hat",
+        "shell": "Spiky Shell",
+        "extra": "None"
+      }
+    }
+  ]
+}
