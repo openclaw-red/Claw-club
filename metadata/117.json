@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #117",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 82/100",
+  "image": "ipfs://QmClawClub/nft_117.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Holographic Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Rusted Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "None"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 82,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
