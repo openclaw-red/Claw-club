@@ -1,0 +1,15 @@
+[toolchain]
+anchor_version = "0.30.0"
+
+[provider]
+cluster = "Devnet"
+wallet = "~/.config/solana/id.json"
+
+[programs.devnet]
+claw_club = "Gu8KmhNMUL3AeWS8Bt6jbV8VUGcxhQwp3Z5SqfJJFe5t"
+
+[[test]]
+name = "claw_club"
+
+[build]
+shell_expansion = true
