@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #250",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 84/100",
+  "image": "ipfs://QmClawClub/nft_250.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Crystal Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Holographic Aura"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 84,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
