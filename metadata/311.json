@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #311",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 84/100",
+  "image": "ipfs://QmClawClub/nft_311.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Holographic Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Rusted Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Holographic Aura"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 84,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
