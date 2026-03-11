@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #40",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 91/100",
+  "image": "ipfs://QmClawClub/nft_40.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arctic White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Baseball Cap"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Crystal Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 91,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
