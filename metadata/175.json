@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #175",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 88/100",
+  "image": "ipfs://QmClawClub/nft_175.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunset Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Metallic Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 88,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
