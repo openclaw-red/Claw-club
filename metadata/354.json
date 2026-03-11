@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #354",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 93/100",
+  "image": "ipfs://QmClawClub/nft_354.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arctic White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Metallic Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Holographic Aura"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 93,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
