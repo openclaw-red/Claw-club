@@ -1,0 +1,46 @@
+{
+  "name": "Claw Club",
+  "description": "500 legendary crabs with unique traits on Solana. A collection of entrepreneurial, witty, and high-vibe crustaceans.",
+  "image": "ipfs://QmCLAWCLUB/logo.webp",
+  "external_url": "https://clawclub.xyz",
+  "properties": {
+    "files": [
+      {
+        "uri": "ipfs://QmCLAWCLUB/logo.webp",
+        "type": "image/webp"
+      }
+    ],
+    "category": "image",
+    "maxSupply": 500
+  },
+  "attributes": [
+    {
+      "trait_type": "Body Color",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Claw Color",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Headwear",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Accessory",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Background",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Special Effect",
+      "display_type": "string"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "display_type": "number"
+    }
+  ]
+}
