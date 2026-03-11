@@ -1,0 +1,6502 @@
+[
+  {
+    "id": 255,
+    "name": "Claw Club #255",
+    "rarityScore": 74,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Green",
+      "headwear": "Wizard Hat",
+      "accessory": "Vape",
+      "background": "Black",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 79,
+    "name": "Claw Club #79",
+    "rarityScore": 70,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Baseball Cap",
+      "accessory": "Vape",
+      "background": "Red",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 299,
+    "name": "Claw Club #299",
+    "rarityScore": 68,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "Vape",
+      "background": "Red",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 269,
+    "name": "Claw Club #269",
+    "rarityScore": 67,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Yellow",
+      "headwear": "Cowboy Hat",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 310,
+    "name": "Claw Club #310",
+    "rarityScore": 66,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Yellow",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Rainbow",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 84,
+    "name": "Claw Club #84",
+    "rarityScore": 64,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Cowboy Hat",
+      "accessory": "VR Headset",
+      "background": "Black",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 484,
+    "name": "Claw Club #484",
+    "rarityScore": 64,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Yellow",
+      "headwear": "Top Hat",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 128,
+    "name": "Claw Club #128",
+    "rarityScore": 62,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Gold Chain",
+      "background": "Pink",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 320,
+    "name": "Claw Club #320",
+    "rarityScore": 62,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Baseball Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 442,
+    "name": "Claw Club #442",
+    "rarityScore": 62,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "Crown",
+      "accessory": "Gold Chain",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 85,
+    "name": "Claw Club #85",
+    "rarityScore": 61,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "Headphones",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 107,
+    "name": "Claw Club #107",
+    "rarityScore": 61,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Yellow",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Black",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 448,
+    "name": "Claw Club #448",
+    "rarityScore": 61,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Headphones",
+      "background": "Purple",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 66,
+    "name": "Claw Club #66",
+    "rarityScore": 60,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Green",
+      "headwear": "None",
+      "accessory": "VR Headset",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 82,
+    "name": "Claw Club #82",
+    "rarityScore": 60,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "Cowboy Hat",
+      "accessory": "Headphones",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Claw Club #7",
+    "rarityScore": 59,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Yellow",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 192,
+    "name": "Claw Club #192",
+    "rarityScore": 59,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Yellow",
+      "headwear": "Sailor Hat",
+      "accessory": "Headphones",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 157,
+    "name": "Claw Club #157",
+    "rarityScore": 57,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 402,
+    "name": "Claw Club #402",
+    "rarityScore": 57,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Blue Laser Eyes",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 492,
+    "name": "Claw Club #492",
+    "rarityScore": 57,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Green",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Black",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Claw Club #37",
+    "rarityScore": 56,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 88,
+    "name": "Claw Club #88",
+    "rarityScore": 56,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Sailor Hat",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Claw Club #151",
+    "rarityScore": 56,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "VR Headset",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 496,
+    "name": "Claw Club #496",
+    "rarityScore": 56,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Wizard Hat",
+      "accessory": "None",
+      "background": "Black",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 92,
+    "name": "Claw Club #92",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 300,
+    "name": "Claw Club #300",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Cowboy Hat",
+      "accessory": "Headphones",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 338,
+    "name": "Claw Club #338",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Green",
+      "headwear": "Cowboy Hat",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 346,
+    "name": "Claw Club #346",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Purple",
+      "headwear": "Sailor Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 390,
+    "name": "Claw Club #390",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 413,
+    "name": "Claw Club #413",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Helicopter Hat",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 414,
+    "name": "Claw Club #414",
+    "rarityScore": 55,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Pink",
+      "headwear": "Viking Horns",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Claw Club #30",
+    "rarityScore": 54,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 176,
+    "name": "Claw Club #176",
+    "rarityScore": 54,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 270,
+    "name": "Claw Club #270",
+    "rarityScore": 54,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 481,
+    "name": "Claw Club #481",
+    "rarityScore": 54,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Purple",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 161,
+    "name": "Claw Club #161",
+    "rarityScore": 53,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Vape",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 167,
+    "name": "Claw Club #167",
+    "rarityScore": 53,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 294,
+    "name": "Claw Club #294",
+    "rarityScore": 53,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Green",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 392,
+    "name": "Claw Club #392",
+    "rarityScore": 53,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Vape",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 418,
+    "name": "Claw Club #418",
+    "rarityScore": 53,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Propeller"
+    }
+  },
+  {
+    "id": 423,
+    "name": "Claw Club #423",
+    "rarityScore": 53,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Claw Club #13",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Claw Club #22",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Claw Club #55",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Claw Club #146",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 201,
+    "name": "Claw Club #201",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Red",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 311,
+    "name": "Claw Club #311",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Gold Chain",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 353,
+    "name": "Claw Club #353",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 398,
+    "name": "Claw Club #398",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Viking Horns",
+      "accessory": "Headphones",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 440,
+    "name": "Claw Club #440",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "VR Headset",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 445,
+    "name": "Claw Club #445",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Gold Chain",
+      "background": "Purple",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 463,
+    "name": "Claw Club #463",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Headphones",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 489,
+    "name": "Claw Club #489",
+    "rarityScore": 52,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Headphones",
+      "background": "Pink",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Claw Club #1",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Claw Club #12",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Blue Laser Eyes",
+      "background": "Pink",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 232,
+    "name": "Claw Club #232",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 259,
+    "name": "Claw Club #259",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 362,
+    "name": "Claw Club #362",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Pink",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 376,
+    "name": "Claw Club #376",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 405,
+    "name": "Claw Club #405",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Viking Horns",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 447,
+    "name": "Claw Club #447",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Wizard Hat",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 474,
+    "name": "Claw Club #474",
+    "rarityScore": 51,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Purple",
+      "headwear": "Baseball Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 117,
+    "name": "Claw Club #117",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Sailor Hat",
+      "accessory": "Crypto Orb",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Claw Club #147",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Headphones",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 198,
+    "name": "Claw Club #198",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 297,
+    "name": "Claw Club #297",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "Gold Chain",
+      "background": "Rainbow",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 343,
+    "name": "Claw Club #343",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Yellow",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 364,
+    "name": "Claw Club #364",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 415,
+    "name": "Claw Club #415",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "None",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 435,
+    "name": "Claw Club #435",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Purple",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 452,
+    "name": "Claw Club #452",
+    "rarityScore": 50,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Wizard Hat",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Claw Club #44",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 91,
+    "name": "Claw Club #91",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Purple",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Claw Club #119",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Chewing Gum",
+      "background": "Purple",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 236,
+    "name": "Claw Club #236",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Top Hat",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 247,
+    "name": "Claw Club #247",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Chewing Gum",
+      "background": "Black",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 273,
+    "name": "Claw Club #273",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Rainbow",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 296,
+    "name": "Claw Club #296",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Crown",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 317,
+    "name": "Claw Club #317",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Crown",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 404,
+    "name": "Claw Club #404",
+    "rarityScore": 49,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Vape",
+      "background": "Purple",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Claw Club #25",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Chewing Gum",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Claw Club #40",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "VR Headset",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Claw Club #135",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Yellow",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 223,
+    "name": "Claw Club #223",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 281,
+    "name": "Claw Club #281",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 397,
+    "name": "Claw Club #397",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Sailor Hat",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 465,
+    "name": "Claw Club #465",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Sailor Hat",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 476,
+    "name": "Claw Club #476",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Pink",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 500,
+    "name": "Claw Club #500",
+    "rarityScore": 48,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Claw Club #20",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Green",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Claw Club #28",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "VR Headset",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Claw Club #59",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 77,
+    "name": "Claw Club #77",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 178,
+    "name": "Claw Club #178",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 312,
+    "name": "Claw Club #312",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 401,
+    "name": "Claw Club #401",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 444,
+    "name": "Claw Club #444",
+    "rarityScore": 47,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Claw Club #33",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Pink",
+      "headwear": "Cowboy Hat",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 65,
+    "name": "Claw Club #65",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Sailor Hat",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 102,
+    "name": "Claw Club #102",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Sailor Hat",
+      "accessory": "Blue Laser Eyes",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 163,
+    "name": "Claw Club #163",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Green",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 181,
+    "name": "Claw Club #181",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 182,
+    "name": "Claw Club #182",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Purple",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 240,
+    "name": "Claw Club #240",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 286,
+    "name": "Claw Club #286",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Yellow",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 316,
+    "name": "Claw Club #316",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 326,
+    "name": "Claw Club #326",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 355,
+    "name": "Claw Club #355",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Crown",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 381,
+    "name": "Claw Club #381",
+    "rarityScore": 46,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "Top Hat",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 80,
+    "name": "Claw Club #80",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Sailor Hat",
+      "accessory": "Pipe",
+      "background": "Purple",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 114,
+    "name": "Claw Club #114",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 137,
+    "name": "Claw Club #137",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Top Hat",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 217,
+    "name": "Claw Club #217",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Sailor Hat",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 288,
+    "name": "Claw Club #288",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 380,
+    "name": "Claw Club #380",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 387,
+    "name": "Claw Club #387",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Pink",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 409,
+    "name": "Claw Club #409",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 427,
+    "name": "Claw Club #427",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 431,
+    "name": "Claw Club #431",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Sailor Hat",
+      "accessory": "None",
+      "background": "Black",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 432,
+    "name": "Claw Club #432",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 464,
+    "name": "Claw Club #464",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 472,
+    "name": "Claw Club #472",
+    "rarityScore": 45,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Wizard Hat",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Claw Club #29",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Claw Club #41",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Wizard Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Claw Club #50",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 61,
+    "name": "Claw Club #61",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Purple",
+      "headwear": "Helicopter Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 68,
+    "name": "Claw Club #68",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Claw Club #86",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 103,
+    "name": "Claw Club #103",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Green",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 104,
+    "name": "Claw Club #104",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 149,
+    "name": "Claw Club #149",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 207,
+    "name": "Claw Club #207",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 230,
+    "name": "Claw Club #230",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 256,
+    "name": "Claw Club #256",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 285,
+    "name": "Claw Club #285",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 337,
+    "name": "Claw Club #337",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 352,
+    "name": "Claw Club #352",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Purple",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 372,
+    "name": "Claw Club #372",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Yellow",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 378,
+    "name": "Claw Club #378",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Yellow",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 441,
+    "name": "Claw Club #441",
+    "rarityScore": 44,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Viking Horns",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Claw Club #24",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "VR Headset",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Claw Club #36",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Wizard Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 139,
+    "name": "Claw Club #139",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Green",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 309,
+    "name": "Claw Club #309",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 321,
+    "name": "Claw Club #321",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Pink",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 327,
+    "name": "Claw Club #327",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Blue Laser Eyes",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 391,
+    "name": "Claw Club #391",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 455,
+    "name": "Claw Club #455",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Black",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 462,
+    "name": "Claw Club #462",
+    "rarityScore": 43,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Purple",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 97,
+    "name": "Claw Club #97",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Yellow",
+      "headwear": "Baseball Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 99,
+    "name": "Claw Club #99",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 106,
+    "name": "Claw Club #106",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Yellow",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 165,
+    "name": "Claw Club #165",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Propeller"
+    }
+  },
+  {
+    "id": 260,
+    "name": "Claw Club #260",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 277,
+    "name": "Claw Club #277",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 289,
+    "name": "Claw Club #289",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 307,
+    "name": "Claw Club #307",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 373,
+    "name": "Claw Club #373",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 383,
+    "name": "Claw Club #383",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Crypto Orb",
+      "background": "Purple",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 416,
+    "name": "Claw Club #416",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 468,
+    "name": "Claw Club #468",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "VR Headset",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 497,
+    "name": "Claw Club #497",
+    "rarityScore": 42,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Green",
+      "headwear": "Wizard Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Claw Club #31",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 72,
+    "name": "Claw Club #72",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Cowboy Hat",
+      "accessory": "Gold Chain",
+      "background": "Purple",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 73,
+    "name": "Claw Club #73",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Rainbow",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 78,
+    "name": "Claw Club #78",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 83,
+    "name": "Claw Club #83",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Cowboy Hat",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Claw Club #116",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "Baseball Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 130,
+    "name": "Claw Club #130",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Pink",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Claw Club #141",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 144,
+    "name": "Claw Club #144",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 215,
+    "name": "Claw Club #215",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Yellow",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 225,
+    "name": "Claw Club #225",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 250,
+    "name": "Claw Club #250",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Propeller"
+    }
+  },
+  {
+    "id": 298,
+    "name": "Claw Club #298",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 339,
+    "name": "Claw Club #339",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 399,
+    "name": "Claw Club #399",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Vape",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 430,
+    "name": "Claw Club #430",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 458,
+    "name": "Claw Club #458",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 467,
+    "name": "Claw Club #467",
+    "rarityScore": 41,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Claw Club #10",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Green",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Claw Club #26",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Claw Club #42",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Claw Club #93",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Wizard Hat",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 109,
+    "name": "Claw Club #109",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Claw Club #110",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 179,
+    "name": "Claw Club #179",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 184,
+    "name": "Claw Club #184",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 234,
+    "name": "Claw Club #234",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 251,
+    "name": "Claw Club #251",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Purple",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 344,
+    "name": "Claw Club #344",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Green",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 400,
+    "name": "Claw Club #400",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Propeller"
+    }
+  },
+  {
+    "id": 421,
+    "name": "Claw Club #421",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 424,
+    "name": "Claw Club #424",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 426,
+    "name": "Claw Club #426",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 428,
+    "name": "Claw Club #428",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "VR Headset",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 439,
+    "name": "Claw Club #439",
+    "rarityScore": 40,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Claw Club #5",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Claw Club #52",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Black",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 62,
+    "name": "Claw Club #62",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Gold Chain",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 173,
+    "name": "Claw Club #173",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Headphones",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 191,
+    "name": "Claw Club #191",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Rainbow",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 229,
+    "name": "Claw Club #229",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Baseball Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 238,
+    "name": "Claw Club #238",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 242,
+    "name": "Claw Club #242",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 274,
+    "name": "Claw Club #274",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Pipe",
+      "background": "Purple",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 284,
+    "name": "Claw Club #284",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Yellow",
+      "headwear": "Sailor Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 292,
+    "name": "Claw Club #292",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 308,
+    "name": "Claw Club #308",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 319,
+    "name": "Claw Club #319",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 331,
+    "name": "Claw Club #331",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 334,
+    "name": "Claw Club #334",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 351,
+    "name": "Claw Club #351",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 388,
+    "name": "Claw Club #388",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 417,
+    "name": "Claw Club #417",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 495,
+    "name": "Claw Club #495",
+    "rarityScore": 39,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Claw Club #16",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Claw Club #38",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Claw Club #69",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 95,
+    "name": "Claw Club #95",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 126,
+    "name": "Claw Club #126",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 129,
+    "name": "Claw Club #129",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 171,
+    "name": "Claw Club #171",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 186,
+    "name": "Claw Club #186",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 206,
+    "name": "Claw Club #206",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 220,
+    "name": "Claw Club #220",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 227,
+    "name": "Claw Club #227",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 233,
+    "name": "Claw Club #233",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Yellow",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 249,
+    "name": "Claw Club #249",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 262,
+    "name": "Claw Club #262",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 313,
+    "name": "Claw Club #313",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 394,
+    "name": "Claw Club #394",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 438,
+    "name": "Claw Club #438",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 469,
+    "name": "Claw Club #469",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 483,
+    "name": "Claw Club #483",
+    "rarityScore": 38,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Claw Club #15",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 105,
+    "name": "Claw Club #105",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 140,
+    "name": "Claw Club #140",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 216,
+    "name": "Claw Club #216",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 219,
+    "name": "Claw Club #219",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 228,
+    "name": "Claw Club #228",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 263,
+    "name": "Claw Club #263",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 303,
+    "name": "Claw Club #303",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Baseball Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 325,
+    "name": "Claw Club #325",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 329,
+    "name": "Claw Club #329",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Cowboy Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 336,
+    "name": "Claw Club #336",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 350,
+    "name": "Claw Club #350",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 374,
+    "name": "Claw Club #374",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 384,
+    "name": "Claw Club #384",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 434,
+    "name": "Claw Club #434",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 436,
+    "name": "Claw Club #436",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 491,
+    "name": "Claw Club #491",
+    "rarityScore": 37,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Claw Club #125",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 189,
+    "name": "Claw Club #189",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 208,
+    "name": "Claw Club #208",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 214,
+    "name": "Claw Club #214",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Gold Chain",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 272,
+    "name": "Claw Club #272",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 315,
+    "name": "Claw Club #315",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 386,
+    "name": "Claw Club #386",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Black",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 473,
+    "name": "Claw Club #473",
+    "rarityScore": 36,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Claw Club #6",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Sailor Hat",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Claw Club #14",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Claw Club #46",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 76,
+    "name": "Claw Club #76",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Pink",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Claw Club #112",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 127,
+    "name": "Claw Club #127",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 138,
+    "name": "Claw Club #138",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Sailor Hat",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 142,
+    "name": "Claw Club #142",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 155,
+    "name": "Claw Club #155",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Cowboy Hat",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 175,
+    "name": "Claw Club #175",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 193,
+    "name": "Claw Club #193",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 195,
+    "name": "Claw Club #195",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 197,
+    "name": "Claw Club #197",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 199,
+    "name": "Claw Club #199",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 209,
+    "name": "Claw Club #209",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 212,
+    "name": "Claw Club #212",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 244,
+    "name": "Claw Club #244",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 254,
+    "name": "Claw Club #254",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Propeller"
+    }
+  },
+  {
+    "id": 261,
+    "name": "Claw Club #261",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 411,
+    "name": "Claw Club #411",
+    "rarityScore": 35,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Claw Club #18",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Claw Club #21",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Sailor Hat",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Claw Club #27",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Claw Club #32",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Crypto Orb",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Claw Club #134",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 196,
+    "name": "Claw Club #196",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Viking Horns",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 241,
+    "name": "Claw Club #241",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 305,
+    "name": "Claw Club #305",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 328,
+    "name": "Claw Club #328",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 333,
+    "name": "Claw Club #333",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 356,
+    "name": "Claw Club #356",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 389,
+    "name": "Claw Club #389",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 410,
+    "name": "Claw Club #410",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Baseball Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 454,
+    "name": "Claw Club #454",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Top Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 479,
+    "name": "Claw Club #479",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 482,
+    "name": "Claw Club #482",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 487,
+    "name": "Claw Club #487",
+    "rarityScore": 34,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Pink",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Claw Club #3",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 71,
+    "name": "Claw Club #71",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 100,
+    "name": "Claw Club #100",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 153,
+    "name": "Claw Club #153",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 158,
+    "name": "Claw Club #158",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 160,
+    "name": "Claw Club #160",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Wizard Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 177,
+    "name": "Claw Club #177",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 235,
+    "name": "Claw Club #235",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 237,
+    "name": "Claw Club #237",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Wizard Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 318,
+    "name": "Claw Club #318",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Yellow",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 323,
+    "name": "Claw Club #323",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "White",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 345,
+    "name": "Claw Club #345",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 359,
+    "name": "Claw Club #359",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 370,
+    "name": "Claw Club #370",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 453,
+    "name": "Claw Club #453",
+    "rarityScore": 33,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 60,
+    "name": "Claw Club #60",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 87,
+    "name": "Claw Club #87",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 94,
+    "name": "Claw Club #94",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 118,
+    "name": "Claw Club #118",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 174,
+    "name": "Claw Club #174",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 268,
+    "name": "Claw Club #268",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 275,
+    "name": "Claw Club #275",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Chewing Gum",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 340,
+    "name": "Claw Club #340",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 357,
+    "name": "Claw Club #357",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 371,
+    "name": "Claw Club #371",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 450,
+    "name": "Claw Club #450",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Crown",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 478,
+    "name": "Claw Club #478",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 480,
+    "name": "Claw Club #480",
+    "rarityScore": 32,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Claw Club #8",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Yellow",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 90,
+    "name": "Claw Club #90",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Top Hat",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 124,
+    "name": "Claw Club #124",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Claw Club #136",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 246,
+    "name": "Claw Club #246",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 265,
+    "name": "Claw Club #265",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 279,
+    "name": "Claw Club #279",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 295,
+    "name": "Claw Club #295",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 324,
+    "name": "Claw Club #324",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 330,
+    "name": "Claw Club #330",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Viking Horns",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 332,
+    "name": "Claw Club #332",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 385,
+    "name": "Claw Club #385",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 403,
+    "name": "Claw Club #403",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Purple",
+      "effect": "Laser Eyes"
+    }
+  },
+  {
+    "id": 420,
+    "name": "Claw Club #420",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 459,
+    "name": "Claw Club #459",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 470,
+    "name": "Claw Club #470",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 471,
+    "name": "Claw Club #471",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 486,
+    "name": "Claw Club #486",
+    "rarityScore": 31,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Claw Club #17",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Claw Club #43",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 224,
+    "name": "Claw Club #224",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 354,
+    "name": "Claw Club #354",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Yellow",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 395,
+    "name": "Claw Club #395",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 433,
+    "name": "Claw Club #433",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 457,
+    "name": "Claw Club #457",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 460,
+    "name": "Claw Club #460",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Gold Chain",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 485,
+    "name": "Claw Club #485",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 493,
+    "name": "Claw Club #493",
+    "rarityScore": 30,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Claw Club #2",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 63,
+    "name": "Claw Club #63",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 96,
+    "name": "Claw Club #96",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Claw Club #101",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Helicopter Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Claw Club #156",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 185,
+    "name": "Claw Club #185",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 213,
+    "name": "Claw Club #213",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 245,
+    "name": "Claw Club #245",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Purple",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 271,
+    "name": "Claw Club #271",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 293,
+    "name": "Claw Club #293",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Baseball Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 368,
+    "name": "Claw Club #368",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 422,
+    "name": "Claw Club #422",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 443,
+    "name": "Claw Club #443",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Rainbow",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 488,
+    "name": "Claw Club #488",
+    "rarityScore": 29,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Claw Club #39",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Claw Club #48",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Pink",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 145,
+    "name": "Claw Club #145",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 166,
+    "name": "Claw Club #166",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 169,
+    "name": "Claw Club #169",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 202,
+    "name": "Claw Club #202",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 253,
+    "name": "Claw Club #253",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 278,
+    "name": "Claw Club #278",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "VR Headset",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 304,
+    "name": "Claw Club #304",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 349,
+    "name": "Claw Club #349",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 406,
+    "name": "Claw Club #406",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 408,
+    "name": "Claw Club #408",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 429,
+    "name": "Claw Club #429",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 456,
+    "name": "Claw Club #456",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 498,
+    "name": "Claw Club #498",
+    "rarityScore": 28,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Claw Club #11",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Claw Club #19",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 54,
+    "name": "Claw Club #54",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 64,
+    "name": "Claw Club #64",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Top Hat",
+      "accessory": "Pipe",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 133,
+    "name": "Claw Club #133",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Propeller"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Claw Club #152",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 221,
+    "name": "Claw Club #221",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Wizard Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 243,
+    "name": "Claw Club #243",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 282,
+    "name": "Claw Club #282",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Black",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 290,
+    "name": "Claw Club #290",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 347,
+    "name": "Claw Club #347",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 365,
+    "name": "Claw Club #365",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 451,
+    "name": "Claw Club #451",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 477,
+    "name": "Claw Club #477",
+    "rarityScore": 27,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Claw Club #4",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Claw Club #23",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Green",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Claw Club #34",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Claw Club #47",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Claw Club #49",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 81,
+    "name": "Claw Club #81",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 121,
+    "name": "Claw Club #121",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 132,
+    "name": "Claw Club #132",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Black",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Claw Club #162",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 257,
+    "name": "Claw Club #257",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Rainbow Aura"
+    }
+  },
+  {
+    "id": 276,
+    "name": "Claw Club #276",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 291,
+    "name": "Claw Club #291",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 358,
+    "name": "Claw Club #358",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Pink",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 419,
+    "name": "Claw Club #419",
+    "rarityScore": 26,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Claw Club #9",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 74,
+    "name": "Claw Club #74",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Claw Club #148",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 168,
+    "name": "Claw Club #168",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 231,
+    "name": "Claw Club #231",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Top Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 239,
+    "name": "Claw Club #239",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Vape",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 252,
+    "name": "Claw Club #252",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 287,
+    "name": "Claw Club #287",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 322,
+    "name": "Claw Club #322",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Sailor Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 361,
+    "name": "Claw Club #361",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 363,
+    "name": "Claw Club #363",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Red",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 396,
+    "name": "Claw Club #396",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Blue",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 407,
+    "name": "Claw Club #407",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 437,
+    "name": "Claw Club #437",
+    "rarityScore": 25,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 58,
+    "name": "Claw Club #58",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 164,
+    "name": "Claw Club #164",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 200,
+    "name": "Claw Club #200",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 280,
+    "name": "Claw Club #280",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Blue",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 379,
+    "name": "Claw Club #379",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 466,
+    "name": "Claw Club #466",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 475,
+    "name": "Claw Club #475",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 494,
+    "name": "Claw Club #494",
+    "rarityScore": 24,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 89,
+    "name": "Claw Club #89",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 170,
+    "name": "Claw Club #170",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 183,
+    "name": "Claw Club #183",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Wizard Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 194,
+    "name": "Claw Club #194",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 266,
+    "name": "Claw Club #266",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 283,
+    "name": "Claw Club #283",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Baseball Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 369,
+    "name": "Claw Club #369",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Purple",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 425,
+    "name": "Claw Club #425",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 446,
+    "name": "Claw Club #446",
+    "rarityScore": 23,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 56,
+    "name": "Claw Club #56",
+    "rarityScore": 22,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Claw Club #150",
+    "rarityScore": 22,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Purple",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 190,
+    "name": "Claw Club #190",
+    "rarityScore": 22,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 226,
+    "name": "Claw Club #226",
+    "rarityScore": 22,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Vape",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 53,
+    "name": "Claw Club #53",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Sailor Hat",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 98,
+    "name": "Claw Club #98",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 122,
+    "name": "Claw Club #122",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Claw Club #143",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 205,
+    "name": "Claw Club #205",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "Blue Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 360,
+    "name": "Claw Club #360",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 377,
+    "name": "Claw Club #377",
+    "rarityScore": 21,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Claw Club #45",
+    "rarityScore": 20,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Blue Laser Eyes",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Claw Club #51",
+    "rarityScore": 20,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 248,
+    "name": "Claw Club #248",
+    "rarityScore": 20,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 314,
+    "name": "Claw Club #314",
+    "rarityScore": 20,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 342,
+    "name": "Claw Club #342",
+    "rarityScore": 20,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 67,
+    "name": "Claw Club #67",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 115,
+    "name": "Claw Club #115",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Green",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 222,
+    "name": "Claw Club #222",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 264,
+    "name": "Claw Club #264",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 267,
+    "name": "Claw Club #267",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Yellow",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 302,
+    "name": "Claw Club #302",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 348,
+    "name": "Claw Club #348",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Crown",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 412,
+    "name": "Claw Club #412",
+    "rarityScore": 19,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Blue",
+      "headwear": "None",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 75,
+    "name": "Claw Club #75",
+    "rarityScore": 18,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Cowboy Hat",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 159,
+    "name": "Claw Club #159",
+    "rarityScore": 18,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 301,
+    "name": "Claw Club #301",
+    "rarityScore": 18,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 180,
+    "name": "Claw Club #180",
+    "rarityScore": 17,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 211,
+    "name": "Claw Club #211",
+    "rarityScore": 17,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 335,
+    "name": "Claw Club #335",
+    "rarityScore": 17,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Chewing Gum",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 367,
+    "name": "Claw Club #367",
+    "rarityScore": 17,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Holographic"
+    }
+  },
+  {
+    "id": 123,
+    "name": "Claw Club #123",
+    "rarityScore": 16,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 210,
+    "name": "Claw Club #210",
+    "rarityScore": 16,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 218,
+    "name": "Claw Club #218",
+    "rarityScore": 16,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "None",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 306,
+    "name": "Claw Club #306",
+    "rarityScore": 16,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Blue Laser Eyes",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 393,
+    "name": "Claw Club #393",
+    "rarityScore": 16,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Blue",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 461,
+    "name": "Claw Club #461",
+    "rarityScore": 15,
+    "traits": {
+      "bodyColor": "Blue",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 131,
+    "name": "Claw Club #131",
+    "rarityScore": 14,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Green",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 203,
+    "name": "Claw Club #203",
+    "rarityScore": 14,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Gold Chain",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 341,
+    "name": "Claw Club #341",
+    "rarityScore": 14,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Claw Club #57",
+    "rarityScore": 13,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Pink",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Claw Club #113",
+    "rarityScore": 13,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 204,
+    "name": "Claw Club #204",
+    "rarityScore": 13,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 258,
+    "name": "Claw Club #258",
+    "rarityScore": 13,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 490,
+    "name": "Claw Club #490",
+    "rarityScore": 13,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 499,
+    "name": "Claw Club #499",
+    "rarityScore": 13,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Pink",
+      "headwear": "None",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 375,
+    "name": "Claw Club #375",
+    "rarityScore": 12,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 449,
+    "name": "Claw Club #449",
+    "rarityScore": 12,
+    "traits": {
+      "bodyColor": "Pink",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 70,
+    "name": "Claw Club #70",
+    "rarityScore": 11,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Green",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 111,
+    "name": "Claw Club #111",
+    "rarityScore": 11,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 188,
+    "name": "Claw Club #188",
+    "rarityScore": 10,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 366,
+    "name": "Claw Club #366",
+    "rarityScore": 10,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Claw Club #35",
+    "rarityScore": 8,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Green",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 108,
+    "name": "Claw Club #108",
+    "rarityScore": 8,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Red",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Smoke"
+    }
+  },
+  {
+    "id": 120,
+    "name": "Claw Club #120",
+    "rarityScore": 8,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "None",
+      "accessory": "Pipe",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 154,
+    "name": "Claw Club #154",
+    "rarityScore": 8,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Viking Horns",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 382,
+    "name": "Claw Club #382",
+    "rarityScore": 7,
+    "traits": {
+      "bodyColor": "Red",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  },
+  {
+    "id": 187,
+    "name": "Claw Club #187",
+    "rarityScore": 6,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Blue Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "Fire Breath"
+    }
+  },
+  {
+    "id": 172,
+    "name": "Claw Club #172",
+    "rarityScore": 4,
+    "traits": {
+      "bodyColor": "Orange",
+      "clawColor": "Orange",
+      "headwear": "Red Cap",
+      "accessory": "Cigar",
+      "background": "Orange",
+      "effect": "None"
+    }
+  }
+]
