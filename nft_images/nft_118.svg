@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="grad287" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#C0C0C0;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#1a1a3e;stop-opacity:1" />
+    </radialGradient>
+    <linearGradient id="shine287">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="#1a1a3e"/>
+  <circle cx="512" cy="512" r="600" fill="url(#grad287)"/>
+  
+  <!-- Main body (crab) -->
+  <ellipse cx="512" cy="550" rx="280" ry="300" fill="#FF6B6B" stroke="#C0C0C0" stroke-width="6"/>
+  
+  <!-- Left claw -->
+  <path d="M 280 480 Q 150 450 120 380" stroke="#FF6B6B" stroke-width="50" fill="none" stroke-linecap="round"/>
+  <circle cx="120" cy="380" r="30" fill="#FF6B6B" stroke="#C0C0C0" stroke-width="4"/>
+  
+  <!-- Right claw -->
+  <path d="M 744 480 Q 874 450 904 380" stroke="#FF6B6B" stroke-width="50" fill="none" stroke-linecap="round"/>
+  <circle cx="904" cy="380" r="30" fill="#FF6B6B" stroke="#C0C0C0" stroke-width="4"/>
+  
+  <!-- Eyes -->
+  <circle cx="420" cy="450" r="45" fill="white" stroke="#C0C0C0" stroke-width="3"/>
+  <circle cx="604" cy="450" r="45" fill="white" stroke="#C0C0C0" stroke-width="3"/>
+  <circle cx="420" cy="450" r="25" fill="black"/>
+  <circle cx="604" cy="450" r="25" fill="black"/>
+  <circle cx="425" cy="445" r="8" fill="white"/>
+  <circle cx="609" cy="445" r="8" fill="white"/>
+  
+  <!-- Hat (if not "No Hat") -->
+  
+  <g>
+    <rect x="380" y="340" width="264" height="80" fill="#333333" stroke="#C0C0C0" stroke-width="3" rx="15"/>
+    <polygon points="400,340 624,340 512,280" fill="#333333" stroke="#C0C0C0" stroke-width="3"/>
+    
+  </g>
+  
+  
+  <!-- Shell pattern -->
+  <circle cx="512" cy="550" r="150" fill="none" stroke="#C0C0C0" stroke-width="2" opacity="0.5"/>
+  <circle cx="512" cy="550" r="100" fill="none" stroke="#C0C0C0" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Shine effect -->
+  <ellipse cx="380" cy="420" rx="80" ry="120" fill="url(#shine287)"/>
+  
+  <!-- NFT Info -->
+  <text x="512" y="900" font-size="48" font-family="Arial, sans-serif" fill="#C0C0C0" text-anchor="middle" font-weight="bold">
+    #118 - 85/100
+  </text>
+  
+  <!-- Trait label -->
+  <text x="512" y="950" font-size="28" font-family="Arial, sans-serif" fill="#C0C0C0" text-anchor="middle" opacity="0.7">
+    Top Hat
+  </text>
+</svg>
