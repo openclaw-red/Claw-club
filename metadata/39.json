@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #39",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 88/100",
+  "image": "ipfs://QmClawClub/nft_39.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Arctic White"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Rusted Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Cigar"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 88,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
