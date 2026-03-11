@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #478",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 85/100",
+  "image": "ipfs://QmClawClub/nft_478.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunset Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Shadow Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Helicopter Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Rusted Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 85,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
