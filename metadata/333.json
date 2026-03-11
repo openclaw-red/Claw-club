@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #333",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 82/100",
+  "image": "ipfs://QmClawClub/nft_333.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forest Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Red Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Hat"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Glossy Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 82,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
