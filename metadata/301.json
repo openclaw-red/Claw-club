@@ -1,0 +1,38 @@
+{
+  "name": "Claw Club #301",
+  "description": "A legendary crab from the Claw Club collection. Rarity Score: 87/100",
+  "image": "ipfs://QmClawClub/nft_301.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunset Orange"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue Crab"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dollar Eyes"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Shell",
+      "value": "Rusted Shell"
+    },
+    {
+      "trait_type": "Extra",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "Rarity Score",
+      "value": 87,
+      "display_type": "number"
+    }
+  ],
+  "external_url": "https://clawclub.xyz",
+  "symbol": "CLAW"
+}
